@@ -1,7 +1,8 @@
-// foo.h
+#ifndef PISCA_H
+#define PISCA_H
 
-int foo(int b) {
-  if (b > 2)
-    return 0;
-  return 1;
-}
+#include "pisca.h"
+
+void led(coid);
+
+#define pisca_H
