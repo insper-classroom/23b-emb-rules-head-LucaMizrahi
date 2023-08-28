@@ -1,8 +1,8 @@
-#ifndef PISCA_H
-#define PISCA_H
+#ifndef FOO_H
+#define FOO_H
 
-#include "pisca.h"
+#include "foo.h"
 
 void led(coid);
 
-#define pisca_H
+#ENDIF
